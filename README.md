@@ -6,7 +6,7 @@ A Python-based sales performance analytics pipeline built with Pandas and Matplo
 This project processes transaction records to determine total gross revenue, top-performing product categories, and temporal revenue trends over a 12-month period.
 
 ## Dashboard Visualization
-![Sales Dashboard](sales_dashboard.png)
+![Sales Dashboard](img.png)
 
 ## Key Findings
 - **Total Gross Revenue:** $275,370.03 across 1,200 records.
